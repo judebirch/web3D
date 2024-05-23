@@ -1,0 +1,48 @@
+{
+    "pageTextData": [
+		{
+			"quote1": "Have a Coke and a smile.",
+			"quote2": "Whoever You Are, Whatever You Do, Wherever You May Be, When You Think of Refreshment Think of Ice Cold Coca-Cola.",		
+			"ourProducts": "Our Products"
+		},
+		{
+			"title": "Cola Bottle",
+			"caption": "Refreshing 500ml bottle of Cola."
+		},
+		{
+			"title": "Sprite Bottle",
+			"caption": "Refreshing 500ml bottle of Sprite."
+		},
+		{
+			"title": "Fanta Bottle",
+			"caption": "Refreshing 500ml bottle of Fanta."
+		},
+		{
+			"title": "Can of Cola",
+			"caption": "Refreshing 330ml can of Cola."
+		},
+		{
+			"title": "Can of Sprite",
+			"caption": "Refreshing 330ml can of Sprite."
+		},
+		{
+			"title": "Can of Fanta",
+			"caption": "Refreshing 330ml can of Fanta."
+		},
+		{
+			"title": "Coca-Cola Cup",
+			"caption": "Coca-Cola themed cup."
+		},
+		{
+			"title": "Sprite Cup",
+			"caption": "Sprite themed cup."
+		},
+		{
+			"title": "Fanta Cup",
+			"caption": "Fanta themed cup."
+		},
+		{
+			"title": "Product Viewer"
+		}
+	]
+}
